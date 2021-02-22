@@ -1,0 +1,11 @@
+name: DragonsBUHC
+main: sp\Main
+api: 3.0.0
+version: 1.0.1
+author: CallumRawlinson
+website: https://github.com/callumrawlinson/dragons
+commands:
+  buhc:
+    description: Join a buhc Game
+    permission: buhc.cmd.use
+    default: op
